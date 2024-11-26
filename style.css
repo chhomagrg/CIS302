@@ -1,0 +1,13 @@
+container {
+  display:flex
+}
+
+h1 {
+  text-align: center;
+}
+
+container img {
+  border:  2px solid;
+  padding: 10px;
+  max-width: 600px;
+}
